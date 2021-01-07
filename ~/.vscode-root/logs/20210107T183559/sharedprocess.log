@@ -1,0 +1,2 @@
+[2021-01-07 18:36:03.566] [sharedprocess] [info] main {"machineId":"9a32a6232bf76c7f3a59955ae0a65d0b041b6e02ca529270ba751eb5adbaade0","windowId":2}
+[2021-01-07 18:36:03.676] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/kali/hello_world/~/.vscode-root/User/snippets'
